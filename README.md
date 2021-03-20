@@ -22,21 +22,22 @@
 ### Projects under development
 
 <a href="https://github.com/delattre1/uart-serial-communication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IC_ComputerVision" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=IC_ComputerVision" />
 </a>
 
 <a href="https://github.com/delattre1/getit-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=IC_ComputerVision" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=getit-app" />
 </a>
+
 ### Projects that I'm proud of 
 
 <a href="https://github.com/delattre1/robonilson3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=AM_MODULATION" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=robonilson3" />
 </a>
 
 
 <a href="https://github.com/delattre1/Z01.1-Anonymous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EikiYamashiro&repo=AM_MODULATION" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=Z01.1-Anonymous" />
 </a>
 
 
@@ -45,4 +46,3 @@
 <br />
 
 [![Delattre's Github Stats](https://github-readme-stats.vercel.app/api?username=Delattre1&count_private=true&show_icons=true&theme=dark)](https://github.com/Delattre1/github-readme-stats)
-
