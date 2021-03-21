@@ -6,6 +6,8 @@
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=F7D146)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=477EDD)
+![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=Vim)
+![](https://img.shields.io/badge/-tmux-informational?style=flat&logo=tmux&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=DD5800)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=1003DD)
 ![](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=mySQL&logoColor=white&color=42759C)
@@ -16,7 +18,6 @@
 
 <ul>
   <li>🤖I'm very interested in <strong>Web Development</strong></li>
-  <li>..</li>
 </ul>
 
 ### Projects under development
@@ -46,3 +47,6 @@
 <br />
 
 [![Delattre's Github Stats](https://github-readme-stats.vercel.app/api?username=Delattre1&count_private=true&show_icons=true&theme=dark)](https://github.com/Delattre1/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delattre1&layout=compact)](https://github.com/Delattre1/github-readme-stats)
+
