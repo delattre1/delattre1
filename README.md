@@ -48,6 +48,3 @@
 <br />
 
 [![Delattre's Github Stats](https://github-readme-stats.vercel.app/api?username=Delattre1&count_private=true&show_icons=true&theme=dark)](https://github.com/Delattre1/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delattre1&layout=compact)](https://github.com/Delattre1/github-readme-stats)
-
