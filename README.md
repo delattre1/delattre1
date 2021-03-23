@@ -6,8 +6,6 @@
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=F7D146)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=477EDD)
-![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=Vim)
-![](https://img.shields.io/badge/-tmux-informational?style=flat&logo=tmux&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=DD5800)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=1003DD)
 ![](https://img.shields.io/badge/-django-informational?style=flat&logo=django&color=green)
@@ -16,9 +14,12 @@
 ![](https://img.shields.io/badge/-ROS-informational?style=flat&logo=ROS&logoColor=white&color=DD6800)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&javascriptColor=white&color=000000)
 ![](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=VHDL&vhdlColor=white&color=2f7a7a)
+![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=Vim)
+![](https://img.shields.io/badge/-tmux-informational?style=flat&logo=tmux&logoColor=white&color=000000)
+![](https://img.shields.io/badge/-linux-informational?style=flat&logo=arch-linux&logoColor=white&color=477EDD)
 
 <ul>
-  <li>🤖I'm very interested in <strong>Web Development</strong></li>
+  <li>🤖 I'm very interested in <strong>Web Development</strong></li>
 </ul>
 
 ### Projects under development
