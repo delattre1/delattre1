@@ -1,6 +1,6 @@
 <strong>
 <h1 align="center"> Hello! I'm Daniel Delattre :v: </h1>
-<h3 align="center"> Currently I'm in my fourth semester of Computer Engineering at Insper.</h3>
+
 </strong>
 <br />
 
