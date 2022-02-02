@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/delattre1/web3-react-solidity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=getit-app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=web3-react-solidity" />
 </a>
 
 ### Projects that I'm proud of 
@@ -41,7 +41,7 @@
 
 
 <a href="https://github.com/delattre1/getit-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=Z01.1-Anonymous" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=getit-app" />
 </a>
 
 
