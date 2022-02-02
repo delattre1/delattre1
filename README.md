@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=uart-serial-communication" />
 </a>
 
-<a href="https://github.com/delattre1/getit-app">
+<a href="https://github.com/delattre1/web3-react-solidity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=getit-app" />
 </a>
 
@@ -40,7 +40,7 @@
 </a>
 
 
-<a href="https://github.com/delattre1/Z01.1-Anonymous">
+<a href="https://github.com/delattre1/getit-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=Z01.1-Anonymous" />
 </a>
 
