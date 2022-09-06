@@ -25,16 +25,15 @@
 
 ### Projects under development
 
-<a href="https://github.com/delattre1/web3-react-solidity">
+<a href="https://github.com/delattre1/my-own-programming-language">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=my-own-programming-language" />
 </a>
 
 ### Projects that I'm proud of 
 
-<a href="https://github.com/delattre1/robonilson3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=robonilson3" />
+<a href="https://github.com/delattre1/uart-serial-communication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=uart-serial-communication" />
 </a>
-
 
 <a href="https://github.com/delattre1/getit-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=getit-app" />
