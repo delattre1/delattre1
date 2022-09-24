@@ -29,6 +29,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=my-own-programming-language" />
 </a>
 
+<a href="https://github.com/delattre1/go-github-actions-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Delattre1&repo=go-github-actions-v2" />
+</a>
+
 ### Projects that I'm proud of 
 
 <a href="https://github.com/delattre1/uart-serial-communication">
