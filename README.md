@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/-linux-informational?style=flat&logo=arch-linux&logoColor=white&color=477EDD)
 
 <ul>
-  <li>🤖 I'm a Computer Engineering student and also very interested in <strong> Data Engineering</strong></li>
+  <li>🤖 I'm a Computer Engineer, very interested in <strong> Data Engineering</strong> and <strong>Backend Development</strong></li>
 </ul>
 
 ### Projects under development
